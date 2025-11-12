@@ -1,0 +1,62 @@
+{
+  "Meta": {
+    "platform": "Meta",
+    "audit_date": "2025-11-11 21:08:26",
+    "total_settings_checked": 27,
+    "privacy_protective_defaults": 3,
+    "privacy_invasive_defaults": 24,
+    "category_breakdown": {
+      "Data Collection": 1,
+      "Advertising & Personalization": 0,
+      "Data Sharing": 0,
+      "Account Activity": 0,
+      "Communications": 2
+    },
+    "p2_score": 0.111
+  },
+  "Google": {
+    "platform": "Google",
+    "audit_date": "2025-11-11 21:08:26",
+    "total_settings_checked": 27,
+    "privacy_protective_defaults": 5,
+    "privacy_invasive_defaults": 22,
+    "category_breakdown": {
+      "Data Collection": 1,
+      "Advertising & Personalization": 1,
+      "Data Sharing": 0,
+      "Account Activity": 1,
+      "Communications": 2
+    },
+    "p2_score": 0.185
+  },
+  "Microsoft": {
+    "platform": "Microsoft",
+    "audit_date": "2025-11-11 21:08:26",
+    "total_settings_checked": 27,
+    "privacy_protective_defaults": 10,
+    "privacy_invasive_defaults": 17,
+    "category_breakdown": {
+      "Data Collection": 2,
+      "Advertising & Personalization": 2,
+      "Data Sharing": 1,
+      "Account Activity": 2,
+      "Communications": 3
+    },
+    "p2_score": 0.37
+  },
+  "Proton": {
+    "platform": "Proton",
+    "audit_date": "2025-11-11 21:08:26",
+    "total_settings_checked": 27,
+    "privacy_protective_defaults": 27,
+    "privacy_invasive_defaults": 0,
+    "category_breakdown": {
+      "Data Collection": 7,
+      "Advertising & Personalization": 5,
+      "Data Sharing": 5,
+      "Account Activity": 5,
+      "Communications": 5
+    },
+    "p2_score": 1.0
+  }
+}

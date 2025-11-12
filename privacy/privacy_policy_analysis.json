@@ -1,0 +1,47 @@
+[
+  {
+    "Platform": "Google",
+    "URL": "https://policies.google.com/privacy",
+    "Analysis_Date": "2025-11-11 21:00:46",
+    "Word_Count": 14403,
+    "Character_Count": 89524,
+    "Flesch_Reading_Ease": 36.91,
+    "Flesch_Kincaid_Grade": 14.64,
+    "Gunning_Fog": 17.57,
+    "Text_Standard": 12.0,
+    "Third_Party_Mentions": 65,
+    "READ_Score": 0.346,
+    "THIRD_Score": 0.726,
+    "P6_Score": 0.536
+  },
+  {
+    "Platform": "Microsoft",
+    "URL": "https://privacy.microsoft.com/en-us/privacystatement",
+    "Analysis_Date": "2025-11-11 21:00:48",
+    "Word_Count": 50869,
+    "Character_Count": 319125,
+    "Flesch_Reading_Ease": 38.35,
+    "Flesch_Kincaid_Grade": 13.42,
+    "Gunning_Fog": 16.36,
+    "Text_Standard": 12.0,
+    "Third_Party_Mentions": 194,
+    "READ_Score": 0.371,
+    "THIRD_Score": 0.608,
+    "P6_Score": 0.489
+  },
+  {
+    "Platform": "Proton",
+    "URL": "https://proton.me/legal/privacy",
+    "Analysis_Date": "2025-11-11 21:00:48",
+    "Word_Count": 2879,
+    "Character_Count": 18115,
+    "Flesch_Reading_Ease": 36.93,
+    "Flesch_Kincaid_Grade": 12.99,
+    "Gunning_Fog": 15.44,
+    "Text_Standard": 13.0,
+    "Third_Party_Mentions": 9,
+    "READ_Score": 0.357,
+    "THIRD_Score": 0.497,
+    "P6_Score": 0.427
+  }
+]

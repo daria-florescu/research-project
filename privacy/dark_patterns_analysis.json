@@ -1,0 +1,62 @@
+{
+  "Meta": {
+    "platform": "Meta",
+    "analysis_date": "2025-11-11 21:08:59",
+    "total_patterns_checked": 25,
+    "total_patterns_detected": 21,
+    "category_detected": {
+      "Obstruction": 4,
+      "Sneaking": 4,
+      "Interface_Interference": 5,
+      "Forced_Action": 3,
+      "Default_Settings": 5
+    },
+    "dp_intensity": 0.84,
+    "p7_score": 0.16
+  },
+  "Google": {
+    "platform": "Google",
+    "analysis_date": "2025-11-11 21:08:59",
+    "total_patterns_checked": 25,
+    "total_patterns_detected": 16,
+    "category_detected": {
+      "Obstruction": 3,
+      "Sneaking": 3,
+      "Interface_Interference": 4,
+      "Forced_Action": 2,
+      "Default_Settings": 4
+    },
+    "dp_intensity": 0.64,
+    "p7_score": 0.36
+  },
+  "Microsoft": {
+    "platform": "Microsoft",
+    "analysis_date": "2025-11-11 21:08:59",
+    "total_patterns_checked": 25,
+    "total_patterns_detected": 11,
+    "category_detected": {
+      "Obstruction": 2,
+      "Sneaking": 2,
+      "Interface_Interference": 3,
+      "Forced_Action": 1,
+      "Default_Settings": 3
+    },
+    "dp_intensity": 0.44,
+    "p7_score": 0.56
+  },
+  "Proton": {
+    "platform": "Proton",
+    "analysis_date": "2025-11-11 21:08:59",
+    "total_patterns_checked": 25,
+    "total_patterns_detected": 0,
+    "category_detected": {
+      "Obstruction": 0,
+      "Sneaking": 0,
+      "Interface_Interference": 0,
+      "Forced_Action": 0,
+      "Default_Settings": 0
+    },
+    "dp_intensity": 0.0,
+    "p7_score": 1.0
+  }
+}
